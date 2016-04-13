@@ -3,7 +3,7 @@ frontend-nanodegree-arcade-game
 
 Enjoy the game made by **Sejal Shah**
 
-**[Play Game](http://sejal6289.github.io/Project-3---Arcade-game-clone/index.html)**
+###**[Play Game](http://sejal6289.github.io/Project-3---Arcade-game-clone/index.html)**
 
 # Instructions 
 
